@@ -1,7 +1,3 @@
-<?php
-// http://localhost/osimatic/count-down-to-the-weekend
-// https://www.osimatic.com/count-down-to-the-weekend
-?>
 <?php ini_set('default_charset', "utf-8"); ?>
 <!DOCTYPE html>
 <html lang="fr-FR">
